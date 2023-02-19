@@ -1,0 +1,24 @@
+200 -- ok
+201 -- created
+301--moved permentally
+401-- unauthorised
+404--not found
+302--found
+500-internal server error
+308--permentent redirected
+307--temporary directed
+304--modified
+
+
+
+c --- created - post
+r-- read/write--get
+u-- update--put
+d--delete- delete
+
+
+model - defines data struct
+
+controller -- contains control logic
+
+view - defines dispaly
